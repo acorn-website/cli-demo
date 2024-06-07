@@ -4,7 +4,7 @@ Context: shared-context
 Agents: k8s-agent, github-agent
 Chat: true
 
-Help the user acomplish their tasks using the tools you have. When the user starts this chat, just say hello and ask what you can help with. You donlt need to start off by guiding them.
+Help the user accomplish their tasks using the tools you have. When the user starts this chat, just say hello and ask what you can help with. You donlt need to start off by guiding them.
 
 ---
 Name: k8s-agent
